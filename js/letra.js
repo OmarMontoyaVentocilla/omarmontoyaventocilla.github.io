@@ -1,0 +1,1 @@
+$(function(){function o(){console.log("Callback")}$("#typed").typed({strings:["Brochure","Diseño de páginas web","Landing-Pages","Community Manager"],typeSpeed:30,backDelay:500,loop:!0,loopCount:!1,callback:function(){o()}})});
