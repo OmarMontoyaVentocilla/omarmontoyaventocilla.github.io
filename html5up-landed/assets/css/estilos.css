@@ -1,0 +1,41 @@
+.title-banner,.description-banner{
+    color: white;
+}
+
+.title-banner{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 14px;
+}
+
+.description-banner{
+    font-size: 30px;
+}
+
+.description-events{
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.col-lg-4.border-white {
+    border: 1px solid #ffffff;
+}
+
+.col-lg-4.border-white.b-left {
+    border-left: none;
+}
+
+.col-lg-4.border-white.b-right {
+    border-right: none;
+}
+.m-b-0{
+    margin-bottom: 0;
+}
+
+/*SECCION NOSOTROS*/
+
+.nosotros-content{
+    background: #108247;
+}
