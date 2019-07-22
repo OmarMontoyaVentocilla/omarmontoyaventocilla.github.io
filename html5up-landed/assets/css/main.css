@@ -2970,7 +2970,7 @@ input, select, textarea {
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
-		height: 100vh;
+		height: 60vh;
 		overflow: hidden;
 		position: relative;
 	}
@@ -3482,7 +3482,9 @@ input, select, textarea {
 			display: inline-block;
 			margin-right: 1%;
 			max-width: 95%;
-			padding: 6em;
+			padding-top: 15em;
+			padding-left: 6em;
+			padding-right: 6em;
 			position: relative;
 			
 			vertical-align: middle;
@@ -3881,7 +3883,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #272833;
+				background: #108247;
 				box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
 			}
 
@@ -3924,7 +3926,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #e44c65;
+						background: #242424;
 						color: rgba(255, 255, 255, 0.5);
 						content: '\f0c9';
 						display: block;
@@ -3959,7 +3961,7 @@ input, select, textarea {
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #181920;
+				background: #108247;
 				padding: 0.75em 1.25em;
 			}
 
