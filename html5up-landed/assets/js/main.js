@@ -134,6 +134,16 @@
 
 		}
 
+		var elements = $('.modal-overlay, .modal');
+
+		$('.image-nosotros').click(function(){
+			elements.addClass('active');
+		});
+		
+		$('.close-modal').click(function(){
+			elements.removeClass('active');
+		});
+
 	// Spotlights.
 		var $spotlights = $('.spotlight');
 
